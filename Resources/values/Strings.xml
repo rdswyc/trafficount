@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--About app-->
+  <string name="AppName">Contagem de Tráfego</string>
+  <string name="AppOwner">2016 Bruna Buher</string>
+  <string name="AppVerion">Versão {0}</string>
+  <string name="AppAuthor">Powered by Rodrigo Chin</string>
+  <string name="AppLicense">Icons under CC-BY license</string>
+
+  <!--Activity names-->
+  <string name="details">Detalhes do item</string>
+  <string name="settings">Configurações</string>
+
+  <!--Controlers text-->
+  <string name="activation">Ativação</string>
+  <string name="about">Sobre</string>
+  <string name="insertKey">Digite a chave de ativação</string>
+  <string name="goodThru">Válido até {0}</string>
+  <string name="validate">Validar</string>
+  <string name="updateKey">Mudar chave</string>
+
+  <string name="empty">Vazio</string>
+  <string name="name">Nome da esquina</string>
+  <string name="description">Descrição/detalhes</string>
+  <string name="removeConfirm">Remover item?</string>
+  <string name="removeMessage">Tem certeza que deseja remover {0}?</string>
+  <string name="yes">Sim</string>
+  <string name="no">Não</string>
+
+  <!--Menus text-->
+  <string name="add">Novo</string>
+  <string name="export">Exportar</string>
+  <string name="done">Pronto</string>
+  <string name="edit">Editar</string>
+  <string name="remove">Remover</string>
+  <string name="startTimer">Iniciar</string>
+  <string name="stopTimer">Parar</string>
+
+  <!--Toast texts-->
+  <string name="appNotActivated">Você precisa ativar o app</string>
+  <string name="appActivated">App ativo até {0}</string>
+  <string name="wrongKey">Chave inválida!</string>
+  <string name="noFile">Não existe dados para exportar.</string>
+  <string name="warningNull">Por favor, insira um nome</string>
+  <string name="warningDuplicate">Essa esquina já existe!</string>
+  <string name="removed">Removido!</string>
+  <string name="timerOver">Tempo esgotado!</string>
+
+  <!--Email strings-->
+  <string name="emailSubject">Dados da Contagem de Tráfego</string>
+  <string name="emailChoose">Enviar usando</string>
+
+</resources>
