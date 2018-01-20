@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/menuStartTimer"
+    android:title="@string/startTimer"
+    android:icon="@drawable/timer"
+    android:showAsAction="always" />
+  <item
+    android:id="@+id/menuStopTimer"
+    android:title="@string/stopTimer"
+    android:icon="@drawable/timer_off"
+    android:showAsAction="always"
+    android:visible="false" />
+  <item
+    android:id="@+id/menuEdit"
+    android:title="@string/edit"
+    android:icon="@drawable/edit"
+    android:showAsAction="never" />
+  <item
+    android:id="@+id/menuRemove"
+    android:title="@string/remove"
+    android:icon="@drawable/remove"
+    android:showAsAction="never" />
+</menu>

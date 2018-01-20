@@ -1,0 +1,40 @@
+Histórico de atualizações
+
+Versão 1.2.0.608
+
+• Barra de ícones dividida na tela principal
+• Cores de ícones na Contagem
+• Nova lógica do cronômetro (quando tela rotaciona)
+• Opção de editar apenas o detalhe da esquina
+• Novo ícone da página Opções
+• Revisão do texto em Sobre
+• Melhorias de implementação e código.
+
+Versão 1.2
+
+• Inclusão da página de opções com alternativa para validação do app
+• Navegação na barra de atividades
+• Novo layout dos botões de contagem com adequação automática a tamanhos de tela e rotação (pode exibir má disposição dependendo do tamanho de tela e aparelho)
+• Opção de editar e excluir esquinas na tela de contagem
+• Alternância entre esquinas em T ou bifurcação Y (prévia; visual apenas e sem função operacional)
+• Correção da inserção repetida do serial ao iniciar app.
+• Corrigido problema de exportação dos dados (solução temporária)
+• Correção do timer parando ao bloquear tela ou sair do app (ainda para se rotacionar a tela)
+• Melhoria de toda lógica de troca de dados internos (agora com o padrão MVVM)
+• Mudança de nome e assembly (Contagem de Tráfego)
+
+Versão 1.1
+
+• Atualização dos ícones conforme o Material Design
+• Adicionado a opção de inserir serial (bug)
+• Opções de editar e remover esquinas
+• Incluído cronômetro para contagem
+• Adequação a diferentes tamanhos de tela e rotação
+• Correção do modal pedestre (para faixa e não na faixa)
+
+Versão 1.0
+
+• Novo app de Contagem Volumétrica
+• Inserção de várias esquinas para contagem
+• Contagem por modal - carro, moto, ônibus, caminhão, bicicleta e pedestre
+• Exporte os dados por e-mail (bug).
